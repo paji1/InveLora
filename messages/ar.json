@@ -1,0 +1,471 @@
+{
+  "Metadata": {
+    "title": "بيزنس إكستشينج - شراء وبيع الشركات",
+    "description": "السوق الرائد لشراء وبيع الشركات"
+  },
+  "LanguageSwitcher": {
+    "switchLanguage": "تغيير اللغة",
+    "english": "الإنجليزية",
+    "french": "الفرنسية",
+    "arabic": "العربية"
+  },
+  "Navigation": {
+    "brand": "بيزنس إكستشينج",
+    "buyBusiness": "شراء شركة",
+    "sellBusiness": "بيع شركة",
+    "advisors": "المستشارون",
+    "resources": "الموارد",
+    "dashboard": "لوحة التحكم",
+    "profile": "الملف الشخصي",
+    "myListings": "إعلاناتي",
+    "messages": "الرسائل",
+    "signOut": "تسجيل الخروج",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "toggleMenu": "القائمة"
+  },
+  "Home": {
+    "hero": {
+      "title": "شراء وبيع والاستثمار في الشركات",
+      "description": "السوق الرائد لرواد الأعمال والمستثمرين لشراء وبيع الشركات في جميع أنحاء العالم.",
+      "sellButton": "بيع شركتك",
+      "findButton": "البحث عن شركة"
+    },
+    "tabs": {
+      "buy": "شراء شركة",
+      "sell": "بيع شركة"
+    },
+    "search": {
+      "industry": "القطاع",
+      "allIndustries": "جميع القطاعات",
+      "industries": {
+        "technology": "التكنولوجيا",
+        "retail": "التجزئة",
+        "manufacturing": "التصنيع",
+        "services": "الخدمات"
+      },
+      "location": "الموقع",
+      "worldwide": "عالمي",
+      "locations": {
+        "northAmerica": "أمريكا الشمالية",
+        "europe": "أوروبا",
+        "asia": "آسيا",
+        "africa": "أفريقيا"
+      },
+      "priceRange": "نطاق السعر",
+      "anyPrice": "أي سعر",
+      "priceRanges": {
+        "under100k": "أقل من 100 ألف",
+        "100kTo500k": "100 ألف - 500 ألف",
+        "500kTo1m": "500 ألف - 1 مليون",
+        "1mTo5m": "1 مليون - 5 مليون",
+        "5mPlus": "أكثر من 5 مليون"
+      },
+      "businessType": "نوع الشركة",
+      "allTypes": "جميع الأنواع",
+      "businessTypes": {
+        "assetSale": "بيع الأصول",
+        "stockSale": "بيع الأسهم",
+        "franchise": "امتياز"
+      },
+      "searchButton": "البحث عن الشركات"
+    },
+    "sell": {
+      "description": "هل أنت مستعد لبيع شركتك؟ أنشئ إعلانًا وتواصل مع آلاف المشترين المؤهلين.",
+      "benefits": {
+        "buyers": "تواصل مع المشترين المؤهلين",
+        "valuation": "تقييم مهني للشركة",
+        "exposure": "تعرض عالمي في السوق"
+      },
+      "listButton": "إدراج شركتك"
+    },
+    "featured": {
+      "badge": "فرص مميزة",
+      "title": "اكتشف أفضل الشركات",
+      "description": "تصفح مجموعتنا المختارة من الشركات عالية الجودة للبيع عبر مختلف القطاعات والمواقع.",
+      "viewAllButton": "عرض جميع الإعلانات"
+    },
+    "howItWorks": {
+      "title": "كيف يعمل",
+      "description": "منصتنا تجعل شراء وبيع الشركات بسيطًا وآمنًا وفعالًا."
+    },
+    "whyChooseUs": {
+      "badge": "لماذا تختارنا",
+      "title": "السوق الرائد لمعاملات الأعمال",
+      "description": "انضم إلى آلاف رواد الأعمال والمستثمرين الذين يثقون بمنصتنا لشراء وبيع الشركات.",
+      "stats": {
+        "buyers": "المشترين النشطين",
+        "businesses": "الشركات المدرجة",
+        "countries": "البلدان",
+        "transactions": "قيمة المعاملات"
+      },
+      "imageAlt": "محترفو الأعمال في اجتماع"
+    },
+    "testimonials": {
+      "title": "قصص النجاح",
+      "description": "استمع إلى رواد الأعمال والمستثمرين الذين استخدموا منصتنا بنجاح."
+    }
+  },
+  "FeaturedListings": {
+    "featured": "مميز",
+    "annualRevenue": "الإيرادات السنوية",
+    "annualProfit": "الربح السنوي",
+    "listings": {
+      "ecommerce": {
+        "title": "متجر إلكتروني مربح",
+        "industry": "التجزئة",
+        "location": "الولايات المتحدة",
+        "description": "شركة تجارة إلكترونية راسخة مع 5 سنوات من العمليات، وحضور علامة تجارية قوي، وقاعدة عملاء مخلصة."
+      },
+      "saas": {
+        "title": "منصة SaaS لإدارة الموارد البشرية",
+        "industry": "التكنولوجيا",
+        "location": "كندا",
+        "description": "برنامج إدارة الموارد البشرية السحابي مع نموذج إيرادات متكرر وعملاء من الشركات."
+      },
+      "manufacturing": {
+        "title": "شركة تصنيع",
+        "industry": "التصنيع",
+        "location": "ألمانيا",
+        "description": "شركة تصنيع راسخة مع تكنولوجيا خاصة وشبكة توزيع دولية."
+      },
+      "agency": {
+        "title": "وكالة تسويق رقمي",
+        "industry": "الخدمات",
+        "location": "المملكة المتحدة",
+        "description": "وكالة تسويق رقمي متكاملة الخدمات مع عملاء طويلي الأمد وعروض خدمات متنوعة."
+      }
+    }
+  },
+  "HowItWorks": {
+    "steps": {
+      "find": {
+        "title": "ابحث عن الفرص",
+        "description": "تصفح آلاف الشركات المعروضة للبيع عبر مختلف القطاعات والمواقع."
+      },
+      "connect": {
+        "title": "تواصل مباشرة",
+        "description": "راسل أصحاب الشركات مباشرة من خلال منصتنا الآمنة."
+      },
+      "secure": {
+        "title": "معاملات آمنة",
+        "description": "أكمل المعاملات بثقة باستخدام خدمة الضمان الآمنة لدينا."
+      },
+      "list": {
+        "title": "أدرج شركتك",
+        "description": "أنشئ إعلانًا احترافيًا لعرض شركتك للمشترين المؤهلين."
+      }
+    }
+  },
+  "Testimonials": {
+    "quotes": {
+      "sarah": "لقد بعت شركتي للتجارة الإلكترونية في 45 يومًا فقط. ربطتني المنصة بمشترين جادين فهموا قيمة شركتي.",
+      "michael": "كمشتري شركة لأول مرة، كنت متوترًا بشأن العملية. جعلت المنصة من السهل العثور على الفرصة المناسبة وأرشدتني خلال كل خطوة.",
+      "david": "ساعدتني أدوات التقييم على فهم القيمة الحقيقية لشركتي. تلقيت عدة عروض وتمكنت من التفاوض من موقع قوة."
+    },
+    "roles": {
+      "former": "مالك شركة سابق",
+      "entrepreneur": "رائد أعمال",
+      "ceo": "الرئيس التنفيذي"
+    }
+  },
+  "Footer": {
+    "brand": "بيزنس إكستشينج",
+    "tagline": "السوق الرائد لرواد الأعمال والمستثمرين لشراء وبيع الشركات في جميع أنحاء العالم.",
+    "forBuyers": {
+      "title": "للمشترين",
+      "browse": "تصفح الشركات",
+      "guide": "دليل الشراء",
+      "dueDiligence": "العناية الواجبة",
+      "financing": "خيارات التمويل"
+    },
+    "forSellers": {
+      "title": "للبائعين",
+      "list": "إدراج شركتك",
+      "valuation": "تقييم الشركة",
+      "guide": "دليل البيع",
+      "exitPlanning": "تخطيط الخروج"
+    },
+    "company": {
+      "title": "الشركة",
+      "about": "من نحن",
+      "contact": "اتصل بنا",
+      "careers": "الوظائف",
+      "blog": "المدونة"
+    },
+    "newsletter": {
+      "title": "اشترك في نشرتنا الإخبارية",
+      "placeholder": "أدخل بريدك الإلكتروني",
+      "button": "اشتراك"
+    },
+    "rights": "جميع الحقوق محفوظة.",
+    "legal": {
+      "terms": "الشروط",
+      "privacy": "الخصوصية",
+      "cookies": "ملفات تعريف الارتباط"
+    }
+  },
+  "SellBusiness": {
+    "hero": {
+      "title": "بيع عملك التجاري",
+      "description": "اعرض عملك للبيع بسهولة واصل إلى آلاف المشترين.",
+      "cta": "ابدأ البيع"
+    },
+    "steps": {
+		"basic" : "الأساسيات",
+      "details": "تفاصيل العمل",
+      "financial": "المعلومات المالية",
+      "legal": "القانوني والامتثال"
+    },
+    "form": {
+      "businessName": "اسم العمل",
+      "businessNamePlaceholder": "أدخل اسم عملك",
+      "businessType": "نوع العمل",
+      "selectBusinessType": "اختر نوع العمل",
+      "industry": "القطاع",
+      "selectIndustry": "اختر القطاع",
+      "location": "الموقع",
+      "selectLocation": "اختر الموقع",
+      "description": "الوصف",
+      "descriptionPlaceholder": "صف عملك، العمليات، ونقاط القوة...",
+      "descriptionHelp": "يرجى إدخال 50 حرفًا على الأقل.",
+      "askingPrice": "السعر المطلوب",
+      "pricePlaceholder": "مثال: 2,500,000",
+      "annualRevenue": "الإيرادات السنوية",
+      "revenuePlaceholder": "مثال: 3,800,000",
+      "annualProfit": "الربح السنوي",
+      "profitPlaceholder": "مثال: 950,000",
+      "established": "سنة التأسيس",
+      "establishedPlaceholder": "مثال: 2015",
+      "employees": "عدد الموظفين",
+      "employeesPlaceholder": "مثال: 12",
+      "reasonForSelling": "سبب البيع",
+      "reasonPlaceholder": "لماذا تبيع هذا العمل؟",
+      "iceNumber": "رقم ICE",
+      "icePlaceholder": "أدخل رقم ICE",
+      "iceDescription": "معرف ICE الخاص بعملك.",
+      "rcNumber": "رقم RC",
+      "rcPlaceholder": "أدخل رقم RC",
+      "rcDescription": "رقم السجل التجاري.",
+      "taxId": "الرقم الضريبي",
+      "taxIdPlaceholder": "أدخل الرقم الضريبي",
+      "taxIdDescription": "الرقم الضريبي لعملك.",
+      "hasFinancialStatements": "البيانات المالية متوفرة",
+      "financialStatementsDescription": "هل لديك بيانات مالية محدثة؟",
+      "hasTaxCompliance": "الامتثال الضريبي",
+      "taxComplianceDescription": "هل عملك ملتزم ضريبيًا؟",
+      "ownershipStructure": "هيكل الملكية",
+      "selectOwnership": "اختر هيكل الملكية",
+      "requiredDocuments": "المستندات المطلوبة",
+      "documentsDescription": "يرجى تجهيز المستندات التالية.",
+      "termsAgreed": "أوافق على الشروط والأحكام",
+      "termsDescription": "يجب الموافقة قبل الإرسال.",
+      "next": "التالي",
+      "previous": "السابق",
+      "submit": "إرسال الإعلان",
+      "submitting": "جاري الإرسال...",
+	  "title": "أضف عملك التجاري",
+      "success": {
+        "title": "تم إرسال الإعلان!",
+        "message": "تم إرسال إعلانك للمراجعة. سنبلغك عند نشره.",
+        "returnHome": "العودة للرئيسية",
+        "dashboard": "الذهاب للوحة التحكم"
+      }
+    },
+    "validation": {
+      "businessNameRequired": "اسم العمل مطلوب.",
+      "businessTypeRequired": "نوع العمل مطلوب.",
+      "industryRequired": "القطاع مطلوب.",
+      "locationRequired": "الموقع مطلوب.",
+      "descriptionLength": "يجب أن يكون الوصف 50 حرفًا على الأقل.",
+      "askingPriceRequired": "السعر المطلوب مطلوب.",
+      "revenueRequired": "الإيرادات السنوية مطلوبة.",
+      "profitRequired": "الربح السنوي مطلوب.",
+      "establishedRequired": "سنة التأسيس مطلوبة.",
+      "employeesRequired": "عدد الموظفين مطلوب.",
+      "reasonLength": "يرجى ذكر سبب البيع (10 أحرف على الأقل).",
+      "iceRequired": "رقم ICE مطلوب.",
+      "rcRequired": "رقم RC مطلوب.",
+      "taxIdRequired": "الرقم الضريبي مطلوب.",
+      "ownershipRequired": "هيكل الملكية مطلوب.",
+      "termsRequired": "يجب الموافقة على الشروط."
+    },
+    "businessTypes": {
+      "sarl": "ش.ذ.م.م",
+      "sa": "ش.م",
+      "snc": "ش.ت.ض",
+      "scs": "ش.ت.س",
+      "franchise": "فرنشايز",
+      "sole": "ملكية فردية"
+    },
+    "ownership": {
+      "soleOwner": "مالك وحيد",
+      "partnership": "شراكة",
+      "multipleShareholders": "عدة مساهمين",
+      "familyOwned": "عائلي"
+    },
+    "guide": {
+      "title": "دليل البائع",
+      "description": "كل ما تحتاج معرفته لبيع عملك.",
+      "requiredDocs": "المستندات المطلوبة",
+      "docs": {
+        "registration": "تسجيل العمل",
+        "taxId": "الرقم الضريبي",
+        "ice": "رقم ICE",
+        "financial": "البيانات المالية",
+        "taxCompliance": "شهادة الامتثال الضريبي",
+        "property": "مستندات الملكية",
+        "employee": "سجلات الموظفين",
+        "inventory": "قائمة الجرد"
+      },
+      "legalProcess": "الإجراءات القانونية",
+      "legalProcessIntro": "خطوات نقل الملكية قانونيًا.",
+      "legal": {
+        "valuation": "تقييم العمل",
+        "preparation": "تحضير المستندات",
+        "negotiation": "التفاوض",
+        "dueDiligence": "الفحص النافي للجهالة",
+        "transfer": "نقل الملكية",
+        "registration": "تحديث التسجيل",
+        "taxClearance": "شهادة براءة الذمة الضريبية"
+      },
+      "taxImplications": "الآثار الضريبية",
+      "taxIntro": "تعرف على الآثار الضريبية للبيع.",
+      "tax": {
+        "capitalGains": "ضريبة الأرباح الرأسمالية",
+        "vat": "ضريبة القيمة المضافة",
+        "registration": "رسوم التسجيل",
+        "stamp": "رسوم الدمغة",
+        "corporate": "ضريبة الشركات"
+      },
+      "taxAdvice": "استشر مستشارًا ضريبيًا لنصيحة مخصصة.",
+      "valuationTitle": "تقييم الأعمال",
+      "valuationIntro": "طرق شائعة لتقييم عملك:",
+      "valuationHelp": "اختر الطريقة الأنسب لعملك.",
+      "valuation": {
+        "asset": "تقييم الأصول",
+        "income": "طريقة الدخل",
+        "market": "المقارنة السوقية",
+        "dcf": "التدفقات النقدية المخصومة",
+        "industry": "مضاعفات القطاع"
+      }
+    },
+    "legal": {
+      "title": "القانوني والامتثال",
+      "description": "قدم معلومات قانونية وامتثال لعملك."
+    },
+    "whyUs": {
+      "title": "لماذا تبيع معنا؟",
+      "network": {
+        "title": "شبكة واسعة",
+        "description": "تصل إلى آلاف المشترين المؤهلين."
+      },
+      "confidential": {
+        "title": "عملية سرية",
+        "description": "معلوماتك آمنة وسرية."
+      },
+      "guidance": {
+        "title": "إرشاد الخبراء",
+        "description": "خبراؤنا يدعمونك في كل خطوة."
+      },
+      "specialists": {
+        "title": "متخصصو القطاع",
+        "description": "احصل على نصائح من محترفين ذوي خبرة."
+      }
+    }
+  },
+  "BuyBusiness": {
+    "hero": {
+      "title": "ابحث عن فرصة العمل المثالية في المغرب",
+      "description": "تصفح آلاف الشركات المعروضة للبيع في جميع أنحاء المغرب. صفِّ حسب القطاع والموقع والسعر للعثور على استثمارك المثالي."
+    },
+    "filters": {
+      "industry": "القطاع",
+      "location": "الموقع",
+      "businessType": "نوع العمل",
+      "yearsInBusiness": "سنوات العمل",
+      "any": "أي",
+      "allBusinessTypes": "كل الأنواع",
+      "close": "إغلاق",
+      "apply": "تطبيق",
+      "annualRevenue": "الإيرادات السنوية",
+      "priceRange": "نطاق السعر",
+      "title": "تصفية الشركات"
+    },
+    "search": {
+      "placeholder": "ابحث عن شركة أو قطاع أو مدينة...",
+      "button": "بحث"
+    },
+    "industries": {
+      "technology": "تكنولوجيا",
+      "retail": "تجزئة",
+      "food": "مطاعم وأغذية",
+      "manufacturing": "تصنيع",
+      "services": "خدمات",
+      "healthcare": "رعاية صحية",
+      "construction": "إنشاءات",
+      "tourism": "سياحة",
+      "agriculture": "زراعة"
+    },
+    "locations": {
+      "casablanca": "الدار البيضاء",
+      "rabat": "الرباط",
+      "marrakech": "مراكش",
+      "tangier": "طنجة",
+      "agadir": "أكادير",
+      "fes": "فاس",
+      "meknes": "مكناس",
+      "oujda": "وجدة",
+      "other": "أخرى"
+    },
+    "businessTypes": {
+      "sarl": "ش.ذ.م.م",
+      "sa": "ش.م",
+      "snc": "ش.ت.ض",
+      "scs": "ش.ت.س",
+      "franchise": "فرنشايز",
+      "sole": "ملكية فردية"
+    },
+    "years": {
+      "0-2": "0-2 سنوات",
+      "3-5": "3-5 سنوات",
+      "6-10": "6-10 سنوات",
+      "11-20": "11-20 سنة",
+      "21+": "21+ سنة"
+    },
+    "sort": {
+      "placeholder": "ترتيب حسب",
+      "featured": "مميز",
+      "newest": "الأحدث",
+      "priceLow": "السعر: من الأقل للأعلى",
+      "priceHigh": "السعر: من الأعلى للأقل",
+      "revenue": "الإيرادات",
+      "profit": "الربح"
+    },
+    "listings": {
+      "title": "قوائم الأعمال",
+      "showing": "عرض {{count}} نتيجة",
+      "sampleBusiness": {
+        "location": "مراكش",
+        "description": "مطعم مربح في قلب مراكش."
+      },
+      "annualRevenue": "الإيرادات السنوية",
+      "annualProfit": "الربح السنوي",
+      "established": "تأسست",
+      "employees": "الموظفون"
+    },
+    "noResults": "لا توجد نتائج مطابقة لبحثك.",
+    "resetFilters": "إعادة تعيين الفلاتر",
+    "viewDetails": "عرض التفاصيل",
+    "contactSeller": "تواصل مع البائع",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ أثناء جلب البيانات.",
+    "backToListings": "العودة إلى القوائم",
+    "featuredBadge": "مميز",
+    "newBadge": "جديد",
+    "price": "السعر",
+    "investment": "الاستثمار",
+    "moreFilters": "المزيد من الفلاتر",
+    "clearAll": "مسح الكل"
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "Metadata": {
+    "title": "invelora - Buy & Sell Businesses",
+    "description": "The premier marketplace for buying and selling businesses"
+  },
+  "LanguageSwitcher": {
+    "switchLanguage": "Switch language",
+    "english": "English",
+    "french": "French",
+    "arabic": "Arabic"
+  },
+  "Navigation": {
+    "brand": "invelora",
+    "buyBusiness": "Buy a Business",
+    "sellBusiness": "Sell a Business",
+    "advisors": "Advisors",
+    "resources": "Resources",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "myListings": "My Listings",
+    "messages": "Messages",
+    "signOut": "Sign Out",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "toggleMenu": "Toggle menu"
+  },
+  "Home": {
+    "hero": {
+      "title": "Buy, Sell & Invest in Businesses",
+      "description": "The premier marketplace for entrepreneurs and investors to buy and sell businesses worldwide.",
+      "sellButton": "Sell Your Business",
+      "findButton": "Find a Business"
+    },
+    "tabs": {
+      "buy": "Buy a Business",
+      "sell": "Sell a Business"
+    },
+    "search": {
+      "industry": "Industry",
+      "allIndustries": "All Industries",
+      "industries": {
+        "technology": "Technology",
+        "retail": "Retail",
+        "manufacturing": "Manufacturing",
+        "services": "Services"
+      },
+      "location": "Location",
+      "worldwide": "Worldwide",
+      "locations": {
+        "northAmerica": "North America",
+        "europe": "Europe",
+        "asia": "Asia",
+        "africa": "Africa"
+      },
+      "priceRange": "Price Range",
+      "anyPrice": "Any Price",
+      "priceRanges": {
+        "under100k": "Under $100K",
+        "100kTo500k": "$100K - $500K",
+        "500kTo1m": "$500K - $1M",
+        "1mTo5m": "$1M - $5M",
+        "5mPlus": "$5M+"
+      },
+      "businessType": "Business Type",
+      "allTypes": "All Types",
+      "businessTypes": {
+        "assetSale": "Asset Sale",
+        "stockSale": "Stock Sale",
+        "franchise": "Franchise"
+      },
+      "searchButton": "Search Businesses"
+    },
+    "sell": {
+      "description": "Ready to sell your business? Create a listing and connect with thousands of qualified buyers.",
+      "benefits": {
+        "buyers": "Connect with qualified buyers",
+        "valuation": "Professional business valuation",
+        "exposure": "Global marketplace exposure"
+      },
+      "listButton": "List Your Business"
+    },
+    "featured": {
+      "badge": "Featured Opportunities",
+      "title": "Discover Top Businesses",
+      "description": "Browse our curated selection of high-quality businesses for sale across various industries and locations.",
+      "viewAllButton": "View All Listings"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "description": "Our platform makes buying and selling businesses simple, secure, and efficient."
+    },
+    "whyChooseUs": {
+      "badge": "Why Choose Us",
+      "title": "The Leading Marketplace for Business Transactions",
+      "description": "Join thousands of entrepreneurs and investors who trust our platform for buying and selling businesses.",
+      "stats": {
+        "buyers": "Active Buyers",
+        "businesses": "Businesses Listed",
+        "countries": "Countries",
+        "transactions": "Transaction Value"
+      },
+      "imageAlt": "Business professionals in a meeting"
+    },
+    "testimonials": {
+      "title": "Success Stories",
+      "description": "Hear from entrepreneurs and investors who have successfully used our platform."
+    }
+  },
+  "FeaturedListings": {
+    "featured": "Featured",
+    "annualRevenue": "Annual Revenue",
+    "annualProfit": "Annual Profit",
+    "listings": {
+      "ecommerce": {
+        "title": "Profitable E-commerce Store",
+        "industry": "Retail",
+        "location": "United States",
+        "description": "Established e-commerce business with 5 years of operation, strong brand presence, and loyal customer base."
+      },
+      "saas": {
+        "title": "SaaS Platform for HR Management",
+        "industry": "Technology",
+        "location": "Canada",
+        "description": "Cloud-based HR management software with recurring revenue model and enterprise clients."
+      },
+      "manufacturing": {
+        "title": "Manufacturing Business",
+        "industry": "Manufacturing",
+        "location": "Germany",
+        "description": "Established manufacturing business with proprietary technology and international distribution network."
+      },
+      "agency": {
+        "title": "Digital Marketing Agency",
+        "industry": "Services",
+        "location": "United Kingdom",
+        "description": "Full-service digital marketing agency with long-term clients and diverse service offerings."
+      }
+    }
+  },
+  "HowItWorks": {
+    "steps": {
+      "find": {
+        "title": "Find Opportunities",
+        "description": "Browse thousands of businesses for sale across various industries and locations."
+      },
+      "connect": {
+        "title": "Connect Directly",
+        "description": "Message business owners directly through our secure platform."
+      },
+      "secure": {
+        "title": "Secure Transactions",
+        "description": "Complete transactions with confidence using our secure escrow service."
+      },
+      "list": {
+        "title": "List Your Business",
+        "description": "Create a professional listing to showcase your business to qualified buyers."
+      }
+    }
+  },
+  "Testimonials": {
+    "quotes": {
+      "sarah": "I sold my e-commerce business in just 45 days. The platform connected me with serious buyers who understood the value of my business.",
+      "michael": "As a first-time business buyer, I was nervous about the process. The platform made it easy to find the right opportunity and guided me through each step.",
+      "david": "The valuation tools helped me understand the true worth of my business. I received multiple offers and was able to negotiate from a position of strength."
+    },
+    "roles": {
+      "former": "Former Business Owner",
+      "entrepreneur": "Entrepreneur",
+      "ceo": "CEO"
+    }
+  },
+  "Footer": {
+    "brand": "invelora",
+    "tagline": "The premier marketplace for entrepreneurs and investors to buy and sell businesses worldwide.",
+    "forBuyers": {
+      "title": "For Buyers",
+      "browse": "Browse Businesses",
+      "guide": "Buying Guide",
+      "dueDiligence": "Due Diligence",
+      "financing": "Financing Options"
+    },
+    "forSellers": {
+      "title": "For Sellers",
+      "list": "List Your Business",
+      "valuation": "Business Valuation",
+      "guide": "Selling Guide",
+      "exitPlanning": "Exit Planning"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "contact": "Contact",
+      "careers": "Careers",
+      "blog": "Blog"
+    },
+    "newsletter": {
+      "title": "Subscribe to our newsletter",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    },
+    "rights": "All rights reserved.",
+    "legal": {
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "cookies": "Cookies"
+    }
+  },
+  "SellBusiness": {
+    "hero": {
+      "title": "Sell Your Business",
+      "description": "Easily list your business for sale and reach thousands of buyers.",
+      "cta": "Start Selling"
+    },
+    "steps": {
+		"basic" : "Basic Information",
+      "details": "Business Details",
+      "financial": "Financial Info",
+      "legal": "Legal & Compliance"
+    },
+    "form": {
+	  "title": "List Your Business",
+      "businessName": "Business Name",
+      "businessNamePlaceholder": "Enter your business name",
+      "businessType": "Business Type",
+      "selectBusinessType": "Select business type",
+      "industry": "Industry",
+      "selectIndustry": "Select industry",
+      "location": "Location",
+      "selectLocation": "Select location",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe your business, operations, and unique selling points...",
+      "descriptionHelp": "Provide at least 50 characters.",
+      "askingPrice": "Asking Price",
+      "pricePlaceholder": "e.g. 2,500,000",
+      "annualRevenue": "Annual Revenue",
+      "revenuePlaceholder": "e.g. 3,800,000",
+      "annualProfit": "Annual Profit",
+      "profitPlaceholder": "e.g. 950,000",
+      "established": "Year Established",
+      "establishedPlaceholder": "e.g. 2015",
+      "employees": "Number of Employees",
+      "employeesPlaceholder": "e.g. 12",
+      "reasonForSelling": "Reason for Selling",
+      "reasonPlaceholder": "Why are you selling this business?",
+      "iceNumber": "ICE Number",
+      "icePlaceholder": "Enter ICE number",
+      "iceDescription": "Your business's unique ICE identifier.",
+      "rcNumber": "RC Number",
+      "rcPlaceholder": "Enter RC number",
+      "rcDescription": "Commercial registration number.",
+      "taxId": "Tax Identification Number",
+      "taxIdPlaceholder": "Enter tax ID",
+      "taxIdDescription": "Your business's tax identification number.",
+      "hasFinancialStatements": "Financial Statements Available",
+      "financialStatementsDescription": "Do you have up-to-date financial statements?",
+      "hasTaxCompliance": "Tax Compliance",
+      "taxComplianceDescription": "Is your business tax compliant?",
+      "ownershipStructure": "Ownership Structure",
+      "selectOwnership": "Select ownership structure",
+      "requiredDocuments": "Required Documents",
+      "documentsDescription": "Please ensure you have the following documents ready.",
+      "termsAgreed": "I agree to the terms and conditions",
+      "termsDescription": "You must agree before submitting.",
+      "next": "Next",
+      "previous": "Previous",
+      "submit": "Submit Listing",
+      "submitting": "Submitting...",
+      "success": {
+        "title": "Listing Submitted!",
+        "message": "Your business listing has been submitted for review. We will notify you once it is live.",
+        "returnHome": "Return Home",
+        "dashboard": "Go to Dashboard"
+      }
+    },
+    "validation": {
+      "businessNameRequired": "Business name is required.",
+      "businessTypeRequired": "Business type is required.",
+      "industryRequired": "Industry is required.",
+      "locationRequired": "Location is required.",
+      "descriptionLength": "Description must be at least 50 characters.",
+      "askingPriceRequired": "Asking price is required.",
+      "revenueRequired": "Annual revenue is required.",
+      "profitRequired": "Annual profit is required.",
+      "establishedRequired": "Year established is required.",
+      "employeesRequired": "Number of employees is required.",
+      "reasonLength": "Please provide a reason for selling (at least 10 characters).",
+      "iceRequired": "ICE number is required.",
+      "rcRequired": "RC number is required.",
+      "taxIdRequired": "Tax identification number is required.",
+      "ownershipRequired": "Ownership structure is required.",
+      "termsRequired": "You must agree to the terms."
+    },
+    "businessTypes": {
+      "sarl": "SARL",
+      "sa": "SA",
+      "snc": "SNC",
+      "scs": "SCS",
+      "franchise": "Franchise",
+      "sole": "Sole Proprietorship"
+    },
+    "ownership": {
+      "soleOwner": "Sole Owner",
+      "partnership": "Partnership",
+      "multipleShareholders": "Multiple Shareholders",
+      "familyOwned": "Family Owned"
+    },
+    "guide": {
+      "title": "Seller's Guide",
+      "description": "Everything you need to know to sell your business.",
+      "requiredDocs": "Required Documents",
+      "docs": {
+        "registration": "Business Registration",
+        "taxId": "Tax Identification",
+        "ice": "ICE Number",
+        "financial": "Financial Statements",
+        "taxCompliance": "Tax Compliance Certificate",
+        "property": "Property Documents",
+        "employee": "Employee Records",
+        "inventory": "Inventory List"
+      },
+      "legalProcess": "Legal Process",
+      "legalProcessIntro": "Steps to legally transfer your business.",
+      "legal": {
+        "valuation": "Business Valuation",
+        "preparation": "Document Preparation",
+        "negotiation": "Negotiation",
+        "dueDiligence": "Due Diligence",
+        "transfer": "Ownership Transfer",
+        "registration": "Registration Update",
+        "taxClearance": "Tax Clearance"
+      },
+      "taxImplications": "Tax Implications",
+      "taxIntro": "Understand the tax implications of selling your business.",
+      "tax": {
+        "capitalGains": "Capital Gains Tax",
+        "vat": "VAT",
+        "registration": "Registration Fees",
+        "stamp": "Stamp Duty",
+        "corporate": "Corporate Tax"
+      },
+      "taxAdvice": "Consult a tax advisor for personalized advice.",
+      "valuationTitle": "Business Valuation Methods",
+      "valuationIntro": "Common methods to value your business:",
+      "valuationHelp": "Choose the method that best fits your business.",
+      "valuation": {
+        "asset": "Asset-Based Valuation",
+        "income": "Income Approach",
+        "market": "Market Comparison",
+        "dcf": "Discounted Cash Flow",
+        "industry": "Industry Multiples"
+      }
+    },
+    "legal": {
+      "title": "Legal & Compliance",
+      "description": "Provide legal and compliance information for your business."
+    },
+    "whyUs": {
+      "title": "Why Sell With Us?",
+      "network": {
+        "title": "Extensive Network",
+        "description": "Reach thousands of qualified buyers."
+      },
+      "confidential": {
+        "title": "Confidential Process",
+        "description": "Your information is kept secure and private."
+      },
+      "guidance": {
+        "title": "Expert Guidance",
+        "description": "Our specialists support you at every step."
+      },
+      "specialists": {
+        "title": "Industry Specialists",
+        "description": "Get advice from experienced professionals."
+      }
+    }
+  },
+  "BuyBusiness": {
+    "hero": {
+      "title": "Find Your Perfect Business Opportunity in Morocco",
+      "description": "Browse thousands of businesses for sale across Morocco. Filter by industry, location, and price to find your ideal investment."
+    },
+    "filters": {
+      "industry": "Industry",
+      "location": "Location",
+      "businessType": "Business Type",
+      "yearsInBusiness": "Years in Business",
+      "any": "Any",
+      "allBusinessTypes": "All Business Types",
+      "close": "Close",
+      "apply": "Apply",
+      "annualRevenue": "Annual Revenue",
+      "priceRange": "Price Range",
+      "title": "Filter Businesses"
+    },
+    "search": {
+      "placeholder": "Search for a business, industry, or city...",
+      "button": "Search"
+    },
+    "industries": {
+      "technology": "Technology",
+      "retail": "Retail",
+      "food": "Food & Beverage",
+      "manufacturing": "Manufacturing",
+      "services": "Services",
+      "healthcare": "Healthcare",
+      "construction": "Construction",
+      "tourism": "Tourism",
+      "agriculture": "Agriculture"
+    },
+    "locations": {
+      "casablanca": "Casablanca",
+      "rabat": "Rabat",
+      "marrakech": "Marrakech",
+      "tangier": "Tangier",
+      "agadir": "Agadir",
+      "fes": "Fes",
+      "meknes": "Meknes",
+      "oujda": "Oujda",
+      "other": "Other"
+    },
+    "businessTypes": {
+      "sarl": "SARL",
+      "sa": "SA",
+      "snc": "SNC",
+      "scs": "SCS",
+      "franchise": "Franchise",
+      "sole": "Sole Proprietorship"
+    },
+    "years": {
+      "0-2": "0-2 years",
+      "3-5": "3-5 years",
+      "6-10": "6-10 years",
+      "11-20": "11-20 years",
+      "21+": "21+ years"
+    },
+    "sort": {
+      "placeholder": "Sort by",
+      "featured": "Featured",
+      "newest": "Newest",
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "revenue": "Revenue",
+      "profit": "Profit"
+    },
+    "listings": {
+      "title": "Business Listings",
+      "showing": "Showing {{count}} results",
+      "sampleBusiness": {
+        "location": "Marrakech",
+        "description": "A profitable restaurant in the heart of Marrakech."
+      },
+      "annualRevenue": "Annual Revenue",
+      "annualProfit": "Annual Profit",
+      "established": "Established",
+      "employees": "Employees"
+    },
+    "noResults": "No results match your search.",
+    "resetFilters": "Reset Filters",
+    "viewDetails": "View Details",
+    "contactSeller": "Contact Seller",
+    "loading": "Loading...",
+    "error": "An error occurred while fetching data.",
+    "backToListings": "Back to Listings",
+    "featuredBadge": "Featured",
+    "newBadge": "New",
+    "price": "Price",
+    "investment": "Investment",
+    "moreFilters": "More Filters",
+    "clearAll": "Clear All"
+  }
+}

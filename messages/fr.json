@@ -1,0 +1,471 @@
+{
+  "Metadata": {
+    "title": "invelora - Acheter & Vendre des Entreprises",
+    "description": "La première place de marché pour acheter et vendre des entreprises"
+  },
+  "LanguageSwitcher": {
+    "switchLanguage": "Changer de langue",
+    "english": "Anglais",
+    "french": "Français",
+    "arabic": "Arabe"
+  },
+  "Navigation": {
+    "brand": "invelora",
+    "buyBusiness": "Acheter une Entreprise",
+    "sellBusiness": "Vendre une Entreprise",
+    "advisors": "Conseillers",
+    "resources": "Ressources",
+    "dashboard": "Tableau de Bord",
+    "profile": "Profil",
+    "myListings": "Mes Annonces",
+    "messages": "Messages",
+    "signOut": "Déconnexion",
+    "signIn": "Connexion",
+    "signUp": "Inscription",
+    "toggleMenu": "Menu"
+  },
+  "Home": {
+    "hero": {
+      "title": "Acheter, Vendre & Investir dans des Entreprises",
+	"description": "La première place de marché au Maroc pour les entrepreneurs et investisseurs pour acheter et vendre des entreprises.",
+      "sellButton": "Vendre Votre Entreprise",
+      "findButton": "Trouver une Entreprise"
+    },
+    "tabs": {
+      "buy": "Acheter une Entreprise",
+      "sell": "Vendre une Entreprise"
+    },
+    "search": {
+      "industry": "Secteur",
+      "allIndustries": "Tous les Secteurs",
+      "industries": {
+        "technology": "Technologie",
+        "retail": "Commerce de Détail",
+        "manufacturing": "Fabrication",
+        "services": "Services"
+      },
+      "location": "Emplacement",
+      "worldwide": "Mondial",
+      "locations": {
+        "northAmerica": "Amérique du Nord",
+        "europe": "Europe",
+        "asia": "Asie",
+        "africa": "Afrique"
+      },
+      "priceRange": "Fourchette de Prix",
+      "anyPrice": "Tous les Prix",
+      "priceRanges": {
+        "under100k": "Moins de 100K€",
+        "100kTo500k": "100K€ - 500K€",
+        "500kTo1m": "500K€ - 1M€",
+        "1mTo5m": "1M€ - 5M€",
+        "5mPlus": "Plus de 5M€"
+      },
+      "businessType": "Type d'Entreprise",
+      "allTypes": "Tous les Types",
+      "businessTypes": {
+        "assetSale": "Vente d'Actifs",
+        "stockSale": "Vente d'Actions",
+        "franchise": "Franchise"
+      },
+      "searchButton": "Rechercher des Entreprises"
+    },
+    "sell": {
+      "description": "Prêt à vendre votre entreprise? Créez une annonce et connectez-vous avec des milliers d'acheteurs qualifiés.",
+      "benefits": {
+        "buyers": "Connectez-vous avec des acheteurs qualifiés",
+        "valuation": "Évaluation professionnelle d'entreprise",
+        "exposure": "Exposition sur le marché mondial"
+      },
+      "listButton": "Publier Votre Entreprise"
+    },
+    "featured": {
+      "badge": "Opportunités en Vedette",
+      "title": "Découvrez les Meilleures Entreprises",
+      "description": "Parcourez notre sélection d'entreprises de haute qualité à vendre dans divers secteurs et emplacements.",
+      "viewAllButton": "Voir Toutes les Annonces"
+    },
+    "howItWorks": {
+      "title": "Comment Ça Marche",
+      "description": "Notre plateforme rend l'achat et la vente d'entreprises simple, sécurisé et efficace."
+    },
+    "whyChooseUs": {
+      "badge": "Pourquoi Nous Choisir",
+      "title": "La Principale Place de Marché pour les Transactions d'Entreprises",
+      "description": "Rejoignez des milliers d'entrepreneurs et d'investisseurs qui font confiance à notre plateforme pour acheter et vendre des entreprises.",
+      "stats": {
+        "buyers": "Acheteurs Actifs",
+        "businesses": "Entreprises Listées",
+        "countries": "Pays",
+        "transactions": "Valeur des Transactions"
+      },
+      "imageAlt": "Professionnels en réunion d'affaires"
+    },
+    "testimonials": {
+      "title": "Histoires de Réussite",
+      "description": "Écoutez les entrepreneurs et investisseurs qui ont utilisé notre plateforme avec succès."
+    }
+  },
+  "FeaturedListings": {
+    "featured": "En Vedette",
+    "annualRevenue": "Chiffre d'Affaires Annuel",
+    "annualProfit": "Bénéfice Annuel",
+    "listings": {
+      "ecommerce": {
+        "title": "Boutique E-commerce Rentable",
+        "industry": "Commerce de Détail",
+        "location": "États-Unis",
+        "description": "Entreprise e-commerce établie avec 5 ans d'activité, une forte présence de marque et une clientèle fidèle."
+      },
+      "saas": {
+        "title": "Plateforme SaaS pour la Gestion RH",
+        "industry": "Technologie",
+        "location": "Canada",
+        "description": "Logiciel de gestion RH basé sur le cloud avec un modèle de revenus récurrents et des clients entreprises."
+      },
+      "manufacturing": {
+        "title": "Entreprise de Fabrication",
+        "industry": "Fabrication",
+        "location": "Allemagne",
+        "description": "Entreprise de fabrication établie avec une technologie propriétaire et un réseau de distribution international."
+      },
+      "agency": {
+        "title": "Agence de Marketing Digital",
+        "industry": "Services",
+        "location": "Royaume-Uni",
+        "description": "Agence de marketing digital à service complet avec des clients à long terme et des offres de services diversifiées."
+      }
+    }
+  },
+  "HowItWorks": {
+    "steps": {
+      "find": {
+        "title": "Trouvez des Opportunités",
+        "description": "Parcourez des milliers d'entreprises à vendre dans divers secteurs et emplacements."
+      },
+      "connect": {
+        "title": "Connectez-vous Directement",
+        "description": "Envoyez des messages aux propriétaires d'entreprises directement via notre plateforme sécurisée."
+      },
+      "secure": {
+        "title": "Transactions Sécurisées",
+        "description": "Complétez les transactions en toute confiance en utilisant notre service d'entiercement sécurisé."
+      },
+      "list": {
+        "title": "Listez Votre Entreprise",
+        "description": "Créez une annonce professionnelle pour présenter votre entreprise à des acheteurs qualifiés."
+      }
+    }
+  },
+  "Testimonials": {
+    "quotes": {
+      "sarah": "J'ai vendu mon entreprise e-commerce en seulement 45 jours. La plateforme m'a mise en relation avec des acheteurs sérieux qui ont compris la valeur de mon entreprise.",
+      "michael": "En tant qu'acheteur d'entreprise pour la première fois, j'étais nerveux à propos du processus. La plateforme m'a facilité la recherche de la bonne opportunité et m'a guidé à chaque étape.",
+      "david": "Les outils d'évaluation m'ont aidé à comprendre la vraie valeur de mon entreprise. J'ai reçu plusieurs offres et j'ai pu négocier à partir d'une position de force."
+    },
+    "roles": {
+      "former": "Ancien Propriétaire d'Entreprise",
+      "entrepreneur": "Entrepreneur",
+      "ceo": "PDG"
+    }
+  },
+  "Footer": {
+    "brand": "invelora",
+	"tagline": "La première place de marché au Maroc pour les entrepreneurs et investisseurs pour acheter et vendre des entreprises.",
+    "forBuyers": {
+      "title": "Pour les Acheteurs",
+      "browse": "Parcourir les Entreprises",
+      "guide": "Guide d'Achat",
+      "dueDiligence": "Due Diligence",
+      "financing": "Options de Financement"
+    },
+    "forSellers": {
+      "title": "Pour les Vendeurs",
+      "list": "Lister Votre Entreprise",
+      "valuation": "Évaluation d'Entreprise",
+      "guide": "Guide de Vente",
+      "exitPlanning": "Planification de Sortie"
+    },
+    "company": {
+      "title": "Entreprise",
+      "about": "À Propos",
+      "contact": "Contact",
+      "careers": "Carrières",
+      "blog": "Blog"
+    },
+    "newsletter": {
+      "title": "Abonnez-vous à notre newsletter",
+      "placeholder": "Entrez votre email",
+      "button": "S'abonner"
+    },
+    "rights": "Tous droits réservés.",
+    "legal": {
+      "terms": "Conditions",
+      "privacy": "Confidentialité",
+      "cookies": "Cookies"
+    }
+  },
+  "SellBusiness": {
+    "hero": {
+      "title": "Vendez votre entreprise",
+      "description": "Listez facilement votre entreprise à vendre et atteignez des milliers d’acheteurs.",
+      "cta": "Commencer à vendre"
+    },
+    "steps": {
+		"basic" : "Informations de base",
+      "details": "Détails de l’entreprise",
+      "financial": "Informations financières",
+      "legal": "Légal & Conformité"
+    },
+    "form": {
+	  "title": "Publiez votre entreprise",
+      "businessName": "Nom de l’entreprise",
+      "businessNamePlaceholder": "Entrez le nom de votre entreprise",
+      "businessType": "Type d’entreprise",
+      "selectBusinessType": "Sélectionnez le type d’entreprise",
+      "industry": "Secteur",
+      "selectIndustry": "Sélectionnez le secteur",
+      "location": "Localisation",
+      "selectLocation": "Sélectionnez la localisation",
+      "description": "Description",
+      "descriptionPlaceholder": "Décrivez votre entreprise, ses opérations et ses points forts...",
+      "descriptionHelp": "Fournissez au moins 50 caractères.",
+      "askingPrice": "Prix demandé",
+      "pricePlaceholder": "ex : 2 500 000",
+      "annualRevenue": "Chiffre d’affaires annuel",
+      "revenuePlaceholder": "ex : 3 800 000",
+      "annualProfit": "Bénéfice annuel",
+      "profitPlaceholder": "ex : 950 000",
+      "established": "Année de création",
+      "establishedPlaceholder": "ex : 2015",
+      "employees": "Nombre d’employés",
+      "employeesPlaceholder": "ex : 12",
+      "reasonForSelling": "Raison de la vente",
+      "reasonPlaceholder": "Pourquoi vendez-vous cette entreprise ?",
+      "iceNumber": "Numéro ICE",
+      "icePlaceholder": "Entrez le numéro ICE",
+      "iceDescription": "Identifiant ICE unique de votre entreprise.",
+      "rcNumber": "Numéro RC",
+      "rcPlaceholder": "Entrez le numéro RC",
+      "rcDescription": "Numéro d’immatriculation au registre du commerce.",
+      "taxId": "Numéro d’identification fiscale",
+      "taxIdPlaceholder": "Entrez le numéro fiscal",
+      "taxIdDescription": "Numéro d’identification fiscale de votre entreprise.",
+      "hasFinancialStatements": "États financiers disponibles",
+      "financialStatementsDescription": "Avez-vous des états financiers à jour ?",
+      "hasTaxCompliance": "Conformité fiscale",
+      "taxComplianceDescription": "Votre entreprise est-elle en règle fiscalement ?",
+      "ownershipStructure": "Structure de propriété",
+      "selectOwnership": "Sélectionnez la structure de propriété",
+      "requiredDocuments": "Documents requis",
+      "documentsDescription": "Veuillez préparer les documents suivants.",
+      "termsAgreed": "J’accepte les termes et conditions",
+      "termsDescription": "Vous devez accepter avant de soumettre.",
+      "next": "Suivant",
+      "previous": "Précédent",
+      "submit": "Soumettre l’annonce",
+      "submitting": "Soumission...",
+      "success": {
+        "title": "Annonce soumise !",
+        "message": "Votre annonce a été soumise pour révision. Nous vous informerons dès qu’elle sera en ligne.",
+        "returnHome": "Retour à l’accueil",
+        "dashboard": "Aller au tableau de bord"
+      }
+    },
+    "validation": {
+      "businessNameRequired": "Le nom de l’entreprise est requis.",
+      "businessTypeRequired": "Le type d’entreprise est requis.",
+      "industryRequired": "Le secteur est requis.",
+      "locationRequired": "La localisation est requise.",
+      "descriptionLength": "La description doit comporter au moins 50 caractères.",
+      "askingPriceRequired": "Le prix demandé est requis.",
+      "revenueRequired": "Le chiffre d’affaires annuel est requis.",
+      "profitRequired": "Le bénéfice annuel est requis.",
+      "establishedRequired": "L’année de création est requise.",
+      "employeesRequired": "Le nombre d’employés est requis.",
+      "reasonLength": "Veuillez fournir une raison (au moins 10 caractères).",
+      "iceRequired": "Le numéro ICE est requis.",
+      "rcRequired": "Le numéro RC est requis.",
+      "taxIdRequired": "Le numéro fiscal est requis.",
+      "ownershipRequired": "La structure de propriété est requise.",
+      "termsRequired": "Vous devez accepter les termes."
+    },
+    "businessTypes": {
+      "sarl": "SARL",
+      "sa": "SA",
+      "snc": "SNC",
+      "scs": "SCS",
+      "franchise": "Franchise",
+      "sole": "Entreprise individuelle"
+    },
+    "ownership": {
+      "soleOwner": "Propriétaire unique",
+      "partnership": "Partenariat",
+      "multipleShareholders": "Plusieurs actionnaires",
+      "familyOwned": "Entreprise familiale"
+    },
+    "guide": {
+      "title": "Guide du vendeur",
+      "description": "Tout ce qu’il faut savoir pour vendre votre entreprise.",
+      "requiredDocs": "Documents requis",
+      "docs": {
+        "registration": "Immatriculation de l’entreprise",
+        "taxId": "Identification fiscale",
+        "ice": "Numéro ICE",
+        "financial": "États financiers",
+        "taxCompliance": "Attestation fiscale",
+        "property": "Documents de propriété",
+        "employee": "Dossiers des employés",
+        "inventory": "Inventaire"
+      },
+      "legalProcess": "Procédure légale",
+      "legalProcessIntro": "Étapes pour transférer légalement votre entreprise.",
+      "legal": {
+        "valuation": "Évaluation de l’entreprise",
+        "preparation": "Préparation des documents",
+        "negotiation": "Négociation",
+        "dueDiligence": "Due diligence",
+        "transfer": "Transfert de propriété",
+        "registration": "Mise à jour de l’enregistrement",
+        "taxClearance": "Quitus fiscal"
+      },
+      "taxImplications": "Implications fiscales",
+      "taxIntro": "Comprendre les implications fiscales de la vente.",
+      "tax": {
+        "capitalGains": "Impôt sur les plus-values",
+        "vat": "TVA",
+        "registration": "Frais d’enregistrement",
+        "stamp": "Droits de timbre",
+        "corporate": "Impôt sur les sociétés"
+      },
+      "taxAdvice": "Consultez un conseiller fiscal pour un avis personnalisé.",
+      "valuationTitle": "Méthodes d’évaluation",
+      "valuationIntro": "Méthodes courantes pour évaluer votre entreprise :",
+      "valuationHelp": "Choisissez la méthode la plus adaptée.",
+      "valuation": {
+        "asset": "Évaluation par les actifs",
+        "income": "Approche par les revenus",
+        "market": "Comparaison de marché",
+        "dcf": "Flux de trésorerie actualisés",
+        "industry": "Multiples sectoriels"
+      }
+    },
+    "legal": {
+      "title": "Légal & Conformité",
+      "description": "Fournissez les informations légales et de conformité."
+    },
+    "whyUs": {
+      "title": "Pourquoi vendre avec nous ?",
+      "network": {
+        "title": "Réseau étendu",
+        "description": "Touchez des milliers d’acheteurs qualifiés."
+      },
+      "confidential": {
+        "title": "Processus confidentiel",
+        "description": "Vos informations sont sécurisées et privées."
+      },
+      "guidance": {
+        "title": "Accompagnement expert",
+        "description": "Nos spécialistes vous accompagnent à chaque étape."
+      },
+      "specialists": {
+        "title": "Spécialistes sectoriels",
+        "description": "Bénéficiez de conseils d’experts expérimentés."
+      }
+    }
+  },
+  "BuyBusiness": {
+    "hero": {
+      "title": "Trouvez l’Opportunité d’Affaires Parfaite au Maroc",
+      "description": "Parcourez des milliers d’entreprises à vendre à travers le Maroc. Filtrez par secteur, localisation et prix pour trouver votre investissement idéal."
+    },
+    "filters": {
+      "industry": "Secteur",
+      "location": "Localisation",
+      "businessType": "Type d’entreprise",
+      "yearsInBusiness": "Années d’activité",
+      "any": "Tous",
+      "allBusinessTypes": "Tous les types",
+      "close": "Fermer",
+      "apply": "Appliquer",
+      "annualRevenue": "Chiffre d’affaires annuel",
+      "priceRange": "Fourchette de prix",
+      "title": "Filtrer les entreprises"
+    },
+    "search": {
+      "placeholder": "Recherchez une entreprise, un secteur ou une ville...",
+      "button": "Rechercher"
+    },
+    "industries": {
+      "technology": "Technologie",
+      "retail": "Commerce de détail",
+      "food": "Restauration",
+      "manufacturing": "Industrie",
+      "services": "Services",
+      "healthcare": "Santé",
+      "construction": "Construction",
+      "tourism": "Tourisme",
+      "agriculture": "Agriculture"
+    },
+    "locations": {
+      "casablanca": "Casablanca",
+      "rabat": "Rabat",
+      "marrakech": "Marrakech",
+      "tangier": "Tanger",
+      "agadir": "Agadir",
+      "fes": "Fès",
+      "meknes": "Meknès",
+      "oujda": "Oujda",
+      "other": "Autre"
+    },
+    "businessTypes": {
+      "sarl": "SARL",
+      "sa": "SA",
+      "snc": "SNC",
+      "scs": "SCS",
+      "franchise": "Franchise",
+      "sole": "Entreprise individuelle"
+    },
+    "years": {
+      "0-2": "0-2 ans",
+      "3-5": "3-5 ans",
+      "6-10": "6-10 ans",
+      "11-20": "11-20 ans",
+      "21+": "21+ ans"
+    },
+    "sort": {
+      "placeholder": "Trier par",
+      "featured": "À la une",
+      "newest": "Plus récent",
+      "priceLow": "Prix : croissant",
+      "priceHigh": "Prix : décroissant",
+      "revenue": "Chiffre d’affaires",
+      "profit": "Bénéfice"
+    },
+    "listings": {
+      "title": "Annonces d’entreprises",
+      "showing": "{{count}} résultats affichés",
+      "sampleBusiness": {
+        "location": "Marrakech",
+        "description": "Un restaurant rentable au cœur de Marrakech."
+      },
+      "annualRevenue": "Chiffre d’affaires annuel",
+      "annualProfit": "Bénéfice annuel",
+      "established": "Créée en",
+      "employees": "Employés"
+    },
+    "noResults": "Aucun résultat ne correspond à votre recherche.",
+    "resetFilters": "Réinitialiser les filtres",
+    "viewDetails": "Voir les détails",
+    "contactSeller": "Contacter le vendeur",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite lors de la récupération des données.",
+    "backToListings": "Retour aux annonces",
+    "featuredBadge": "À la une",
+    "newBadge": "Nouveau",
+    "price": "Prix",
+    "investment": "Investissement",
+    "moreFilters": "Plus de filtres",
+    "clearAll": "Tout effacer"
+  }
+}
